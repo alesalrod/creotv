@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CREOTV
-https://creotv.streamserverperu.com/creotv-intro.mp4
+https://mcp.mediastreamperu.com:19360/creotv/creotv.m3u8
 #EXTINF:-1 ,CREOTV LIVE
 https://mcp.mediastreamperu.com:19360/creotv/creotv.m3u8
 #EXTINF:-1 ,CREOTV
